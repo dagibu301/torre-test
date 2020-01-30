@@ -10,9 +10,9 @@ This project was developed using this technologies:
 ## :computer: Description
 
 The app makes use of the [Torre](https://torre.co/en) api to get information related with the user:
--Education
--Experience
--Connectuibs
+- Education
+- Experience
+- Connections
 
 ## :memo: License
 
